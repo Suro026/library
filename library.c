@@ -20,7 +20,7 @@ int main(){
         printf("\nEnter one of the above : ");
         scanf("%d",&input);
         switch(input){
-            case 1: printf("\nEnter book name= ");
+            case 1: printf("\nEnter book name = ");
                     scanf("%s",book_name[i]);
                     printf("\nEnter author name = ");
                     scanf("%s",author[i]);
