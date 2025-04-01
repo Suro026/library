@@ -11,7 +11,7 @@ int main(){
 
     i=input=count=0;
     while(input !=5){
-        printf("\n## Welcom To E-Library ##");
+        printf("\n### Welcom To E-Library ###");
         printf("\n1. Add Book information");
         printf("\n2. Display book information");
         printf("\n3. List all books of given author");
